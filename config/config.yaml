@@ -1,5 +1,5 @@
 # your domain
-domain: shuai.heroku.com
+domain: mr-shuai.heroku.com
 port: 80                # default 12580
 
 # source list file
